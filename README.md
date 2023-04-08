@@ -1,5 +1,5 @@
 # Data-RegEx
-Fake names, addresses and phone numbers created by AI. 
+Fake names, addresses and phone numbers created by AI. With reference from Corey Schafer
 
 
 Dave Martin
