@@ -1,0 +1,97 @@
+# Data-RegEx
+Fake names, addresses and phone numbers created by AI. 
+
+Dave Martin
++65 8123 4567
+173 Orchard Road, #12-34, Singapore 55924
+davemartin@bogusemail.com
+
+Charles Harris
++65 9123 4567
+969 Marina Boulevard, #23-45, Singapore 34075
+charlesharris@bogusemail.com
+
+Eric Williams
++65 6234 5678
+806 Serangoon Road, #02-01, Singapore 86847
+laurawilliams@bogusemail.com
+
+Corey Jefferson
++65 9123 5678
+826 Bukit Timah Road, #10-11, Singapore 10671
+coreyjefferson@bogusemail.com
+
+Jennifer Martin-White
++65 6333 4455
+212 Jalan Besar, #05-12, Singapore 74983
+jenniferwhite@bogusemail.com
+
+Erick Davis
++65 9123 6789
+519 North Bridge Road, #07-23, Singapore 32425
+tomdavis@bogusemail.com
+
+Neil Patterson
++65 6789 0123
+625 Balestier Road, #09-08, Singapore 61914
+neilpatterson@bogusemail.com
+
+Laura Jefferson
++65 9123 7890
+890 Geylang Road, #02-45, Singapore 29947
+laurajefferson@bogusemail.com
+
+Maria Johnson
++65 9123 2345
+884 Upper Serangoon Road, #01-67, Singapore 43597
+mariajohnson@bogusemail.com
+
+Michael Arnold
++65 8123 7890
+249 Havelock Road, #06-01, Singapore 90938
+michaelarnold@bogusemail.com
+
+Michael Smith
++65 9123 3456
+619 Yio Chu Kang Road, #03-12, Singapore 99000
+michaelsmith@bogusemail.com
+
+Erik Stuart
++65 6234 5678
+220 Sims Avenue, #11-22, Singapore 87282
+robertstuart@bogusemail.com
+
+Laura Martin
++65 9123 4567
+391 Orchard Boulevard, #03-45, Singapore 28362
+lauramartin@bogusemail.com
+
+Barbara Martin
++65 9123 6789
+121 Lorong K Telok Kurau, #02-04, Singapore 92474
+barbaramartin@bogusemail.com
+
+Linda Jackson
++65 6789 0123
+433 Pasir Panjang Road, #08-09, Singapore 61967
+lindajackson@bogusemail.com
+
+Eric Miller
++65 9123 7890
+838 Joo Chiat Road, #05-06, Singapore 56526
+stevemiller@bogusemail.com
+
+Dave Arnold
++65 8123 4567
+732 East Coast Road, #01-23, Singapore 97152
+davearnold@bogusemail.com
+
+Jennifer Jacobs
++65 9123 2345
+217 East Coast Road, #03-12, Singapore 82767
+jenniferjacobs@bogusemail.com
+
+Neil Wilson
++65 6789 0123
+191 Geylang Road, #08-09, Singapore 72160
+neilwilson@bogusemail.com
